@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Adarshr993/LeetCode/tree/master/0088-merge-sorted-array) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Adarshr993/LeetCode/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Adarshr993/LeetCode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Adarshr993/LeetCode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
