@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Adarshr993/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Adarshr993/LeetCode/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarshr993/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshr993/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Adarshr993/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
